@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Core;
-use App\Core\AdminMiddleware;
 
 class Router
 {
